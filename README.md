@@ -5,11 +5,11 @@ This repository contains all the task reports, assessments, and documentation I 
 
 📁 Contents by Week:
 
-Week 01
-Task 01 - Securing Your Workstation (Optional)
-Task 02 - Introduction to Networking
-Task 03 - Introduction to Linux Commands
-Task 04 - Cybersecurity Fundamentals
+Week 01:
+Task 01 - Securing Your Workstation (Optional).
+Task 02 - Introduction to Networking.
+Task 03 - Introduction to Linux Commands.
+Task 04 - Cybersecurity Fundamentals.
 
 Week 02
 Task 05 - Password Cracking Basics
