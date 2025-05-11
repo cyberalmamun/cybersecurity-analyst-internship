@@ -5,49 +5,49 @@ This repository contains all the task reports, assessments, and documentation I 
 
 📁 Contents by Week:
 
-Week 01:
+Week_01:
 Task 01 - Securing Your Workstation (Optional).
 Task 02 - Introduction to Networking.
 Task 03 - Introduction to Linux Commands.
 Task 04 - Cybersecurity Fundamentals.
 
-Week 02:
+Week_02:
 Task 05 - Password Cracking Basics.
 Task 06 - Firewall Configuration.
 Task 07 - Virtual Private Networks (Optional).
 Task 08 - Cryptography Basics.
 
-Week 03:
+Week_03:
 Task 09 - Malware Analysis Basics.
 Task 10 - Phishing Identification.
 Task 11 - Network Scanning.
 Task 12 - Basic Penetration Testing (Optional).
 
-Week 04:
+Week_04:
 Task 13 - Intrusion Detection Systems (IDS).
 Task 14 - Security Patch Management (Optional).
 Task 15 - Log Analysis.
 Task 16 - Incident Response Simulation.
 
-Week 05:
+Week_05:
 Task 17 - Endpoint Detection and Response (EDR) Technologies.
 Task 18 - Mobile Security Basics.
 Task 19 - Basics of Web Application Security (Optional)
 Task 20 - Cloud Security Basics.
 
-Week 06:
+Week_06:
 Task 21 - Introduction to SIEM Tools.
 Task 22 - Network Forensics.
 Task 23 - Security Automation.
 Task 24 - Advanced Penetration Testing Tools.
 
-Week 07:
+Week_07:
 Task 25 - Cybersecurity Case Study.
 Task 26 - Compliance and Legal Aspects.
 Task 27 - Security Policies (Optional).
 Task 28 - Risk Assessment.
 
-Week 08:
+Week_08:
 Task 29 - Capstone Project: Integrated Incident Response and Emerging Threats Defense.
 Task 30 - Reflective Presentation on Internship Experience.
 
